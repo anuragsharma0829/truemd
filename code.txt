@@ -1,0 +1,419 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" -->
+  <!---- integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">-->
+  <link rel="stylesheet" href="acss/bootstrap.min.css">
+  <title>TrueMDWellness</title>
+  <link rel="stylesheet" href="trumdwellness.css">
+</head>
+
+<body>
+  <!--navbar-->
+  <nav class="navbar navbar-light" style="background-color: #82c6db;">
+    <div class="container-fluid">
+      <span class="navbar-text ms-5" style="color: whitesmoke;">
+        | Phone:(817) 399 8783 5203 | Haritage Ave.colleyville |
+      </span>
+      <span class="navbar-text">
+        <span style="color: whitesmoke;"> Follow Us:</span>
+        <img src="Bitmap.png" class="img-fluid" alt="responsive">
+      </span>
+    </div>
+  </nav>
+  <!--end of navbar 1st-->
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <a style="padding-left: 2in;"> <img src="TrueMDWellness.png" class="img-fluid" alt=""></a>
+        <li class="nav-item active" style="padding-left: 2in; color: black;">
+          <a class="nav-link" href="#"><span style="color: black;"></span> <span class="sr-only"></span></a>
+        </li>
+        <li class="nav-item" style="color: black; padding-left: 0.1in;">
+          <a class="nav-link" href="#"><span style="color: black;"> Home</span></a>
+        </li>
+        <li class="nav-item dropdown" style="padding-left: 0.1in; color: black;">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            <span style="color: black;">Wellness</span>
+          </a>
+
+        <li class="nav-item dropdown" style="padding-left: 0.1in; color: black;">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            <span style="color: black;">Store</span>
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="padding-left: .2in; color: black;">
+            <a class="dropdown-item" href="#">Medicine</a>
+            <a class="dropdown-item" href="#">Health-kit</a>
+          </div>
+        <li class="nav-item" style="color: black; padding-left: 0.1in;">
+          <a class="nav-link" href="#"><span style="color: black;"> Physician Affiliate</span></a>
+        </li>
+        <li class="nav-item" style="color: black; padding-left: 0.1in;">
+          <a class="nav-link" href="#"> <span style="color: black;"> Contect Us</span></a>
+        </li>
+        <li class="nav-item" style="color: black; padding-left: 0.1in;">
+          <a class="nav-link" href="#"><span style="color: black;"> About Us</span></a>
+        </li>
+
+        <li class="nav-item" style="color: black; padding-left: 0.3in; padding-top: 00.1in;">
+          <img src="Bitmap1.png" class="img-fluid" alt="">
+        </li>
+        </li>
+        <li class="nav-item" style="color: black; padding-left: 0.3in; padding-top: 00.1in;">
+          <img src="Bitmap2.png" class="img-fluid alt=">
+        </li>
+
+    </div>
+  </nav>
+  <!--end of second nav..-->
+  <!--about-img--->
+  <div style="width: 100%;">
+    <img src="about.jpg.png" class="img-fluid" alt="responsive">
+  </div>
+
+  <!--flax..-->
+  <!--start flax-->
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-8">
+        <h2 class="featurette-heading"> <span class="text-muted"><span style="font-size: 20px;"><br>The
+              TruMD<br>―</br></span>
+            <h1><span style="color: black;">Program in A Nutshell</span></h1>
+          </span>
+        </h2>
+        TrueMD is dedicated to helping you reach your potential for improved health, increase your lifespan, and
+        improve your quality of life as you age. Our goal is to help you accomplish this through three main concepts
+        offered through TrueMD Affiliates’ True Hormone Pellet Therapy, The True Weight-loss program, and True
+        Wellness Concepts. Both men and women can benefit from our programs and can enjoy a boost in energy, improved
+        sexual satisfaction, less age-related symptoms and potentially protecting you from those debilitating diseases
+        that you could get as you age.<br>
+        <br>Affiliates of TrueMD are committed to helping you live happier, longer, and with more enjoyment of life.
+        All are certified to provide this through extensive training programs at the TrueMD headquarters in
+        Colleyville, TX Each is highly trained and is passionate in helping you get the services you need. Everyone
+        wants to get older and “age”.None of us want to die prematurely, but you want to age with quality of life:
+        enjoy better sex, vitality, energy, activity, clarity of mind, eating well, and social connections.
+      </div>
+      <div class="col-sm-4">
+        <div style="padding-top: 1.5in;"> <img src="happy-face.jpg" class="img-fluid" alt=""></div>
+      </div>
+    </div>
+    <div>
+      <p> For All round & Well-being</p>
+      <p> <span style="color: #82c6db;">━━━━</p>
+      <div style="font-size: 10px;">
+        <h1> Founder and CEO of TrueMD</h1>
+      </div>
+    </div>
+    <!--Second Flax-->
+    <div class="contianer-fluid">
+      <div class="row">
+
+        <div class="card flex-md-row mb-4  border-0 h-md-250">
+
+          <div class="col-md-4">
+
+            <img class="card-img-right flex-auto  nopadding mt-5" src="RobertPik.png">
+
+            <img src="video-img.jpg" class="rounded" style="margin-top: -60px; margin-left: 150px;" alt="...">
+
+            <h5 class="text-start" style="margin-top: -20px;margin-left: 1rem;"> Robert L. True</h5>
+
+            <p class="text end"
+              style="font-weight: 180; font-size: 14px; margin-top: -10px; margin-left: 30px;  font-family: Cambria; color: dimgrey;">
+
+              <i>chief mediacl offer</i>
+
+            </p>
+
+          </div>
+
+
+          <div class="col-md-8">
+            <p style="padding-top: .6in;"> Robert L. True, MD, is the founder and CEO of TrueMD He is and has been
+              passionate about providing
+              preventive
+              care, i e. Anti-Aging, services since before he started his practice of medicine in 1g86 To this end he
+              received
+              extensive training in age-management and how to prevent diseases by specializing in age-management, also
+              called
+              Anti-Aging medicine Through his extensive research and experience, he has developed the TrueMD program,
+              and
+              his
+              goal is to train other physicians to become Affiliates of TrueMD in order to bring his proven
+              health-improving
+              concepts to you He believes good health is just as good as the good life, and his programs are designed to
+              improve your health while enhancing your quality of life.</p>
+            <br>
+            <p> His training has given Dr. True a comprehensive background in age management through multiple
+              complimentary
+              specialties He graduated from Pharmacy school at Idaho State University in Pocatello, Idaho, where he was
+              born
+              and raised From this training, he learned about medications, herbal supplements, and compounding
+              pharmaceutical products that helped him understand and be able to formulate the best combination of these
+              for
+              you..</p>
+            <br>
+            <p>His training in Medical School was from the University of Nevada in Reno, Nevada. His goal during medical
+              school.His training in Medical School was from the University of Nevada in Reno, Nevada. His goal during
+              medical school
+              was to learn everything about all topics of medicine for he wanted to provide all services to his patients
+              from all
+              the many disciplines of medicine.
+            </p>
+            <br>
+
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-1"></div>
+
+          <div class="col-sm-11">
+            <p>This wholistic approach to medicine helped him evaluate and treat the patient as an individual and as a
+              whole, not just honing in on one organ system. The concepts of wellness are complex, and this training has
+              given him the basis to providing his TrueMD methods, which he teaches to Affiliates of TrueMD. Next, his
+              internship a Charity Hospital, New Orleans, through Tulane University helped him to have first-hand
+              experience in many surgical disciplines, but primarily in OB- GYN This started him on his quest to
+              consider
+              and determine all thebest pathways to help women, and men, fight off a multitude of medical conditions
+              that
+              have been shown to make them age prematurely..</p>
+            <br>
+            <p>
+              After internship, Dr. True practiced Emergency Medicine at several hospitals in southern Louisiana. He
+              treated men, women, and children for emergencies and other medical conditions, seeing them sometimes. t
+              their worst. This experience helped him learn about many of the needs of his patients and empathize with
+              them, which helped him gain the knowledge, experience, and caring spirit to help him formulate his TrueMD
+              program with the patient's concerns in mind. Returning to Charity Hospital, he finished his residency
+              through Tulane University and set up his practice in OB-GYN in Arlington, TX. During his 26 years of
+              experiences delivering babies and treating women for gynecologic needs, his foremost passion was to help
+              women improve their health. To this end, he prescribed hormone therapy and weight-loss therapies because
+              he
+              is and has always been an advocate for women and women's care. Youdon't have to suffer from the multitude
+              of
+              symptoms of medical conditions that lack of hormones and obesity induce.
+            </p>
+            <br>
+            <p>
+              Moving to Colleyville, TX, he did further training in Cosmetic Surgery and Anti-Aging Medicine, obtaining
+              accreditation for specialization in both disciplines He has seen how women and men suffer from self-esteem
+              issues and has seen how age can place a devastating effect on them Thus, he developed his own techniques
+              for
+              treating many of these age-related problems plus preventing their root causes through his three concepts
+              of
+              TrueMD.
+            </p>
+            <br>
+            <p>
+              Treating people who are overweight and/or obese has always been a passion for Dr. True Over the years, he
+              has incorporated a multitude of different weight-loss programs into his practice. These experiences have
+              taught him which programs work and which don't This experience and knowledge, combined with evidence-based
+              medicine, gave him the wisdom to create his diet program that has resulted in his patients achieve true
+              sustained weight-loss when done per TrueMD guidelines.
+            </p>
+            <br>
+            <p>
+              Dr. True has also had a passion to teach other physicians his knowledge and experience Over the years, he
+              has taught physicians from around the world his techniques on Liposuction, tummy tucks, and breast
+              augmentation. He developed his own technique for doing a more aesthetic labiaplasty and has taught
+              cosmetic
+              surgeons world-wide his technique to enable them to offer a better method for this surgery. And, of
+              course,
+              he has taught physicians his concepts of wellness that you now can benefit by contacting TrueMD Affiliate
+              who has learned his programs, has embraced its concepts and has incorporated them within his/her own
+              practice near you.
+            </p>
+            <br>
+            <p>
+              Because of his expertise, Dr. True has appeared on multiple television shows and other media, including
+              Housewives of Dallas, Good Morning Texas, Ask the Doctor, Hot on Health & Beauty, Home & Lifestyle TV,
+              WFAA News, the RC Project. The New York Times, Best Docs Network, Consultant to "First for Women's
+              Magazine featuring Dr Oz, and others He has his own radio show on KFXR 1190 Talk-Radio, talking about
+              Anti-Aging and what you can do to preserve your health.
+              <br>
+            <p> He is an active member of The American Academy of Anti-Aging and Regenerative medicine, by whom he has
+              been accredited through the American Board of Anti-Aging and Regenerative Medicine, the American Academy
+              of Cosmetic surgery with Board Certification through the American Board of Cosmetic Surgery. the
+              Age-Management Medical Group: the American College of Obstetrics and Gynecology with Board Certification
+              through the American Board of Obstetrics and Gynecology, the American Society of Cosmeticogynecology; the
+              American Society of Liposuction; The American Society of Cosmetic Breast Surgery; The American Medical
+              Association and the Texas Medical Association.</p>
+            </p>
+          </div>
+        </div>
+      </div>
+      <!--End Of Flex-->
+      <div class="row">
+        <div class="col-sm-12">
+          <p> <span style="color: #82c6db;">━━━━━━━━</p>
+          <h1>TrueMD and FDA<h1>
+              <br>
+              <p style="font-size: 16px; font-style: normal; padding-bottom: 0.8in; ">TrueMD has not sought nor obtained
+                FDA approval for any of the programs or products offered to patients
+                by Affiliates of TrueMD AU programs, including hormone pellet therapies, weight-loss programs, and
+                supplements are all considered Off-Label use of these concepts and any medications or supplements used
+                in TrueMD programs Thus, they have not been given the FDA approval However, all are backed by extensive
+                research to substantiate, document, and fulfill TrueMD's goals to providing improved health, quality of
+                life, and potentially a longer life for those who embrace TrueMD programs and concepts of wellness and
+                prevention.</p>
+
+        </div>
+
+      </div>
+      <!--Team Members Name-->
+      <div class="conatiner-fluid">
+      <div class="container-fluid" style="background-color: lightgray;">
+        <p class="text-center" style="padding-top: .3in;">For All round & Well-being</p>
+        <p class="text-center"> <span style="color: #82c6db;">━━━━</p>
+        <p class="text-center" style="font-size: 23px;"><b>Team Members</b></p>
+
+        <div class="row row-cols-1 row-cols-md-4 g-4" style="padding-top: .3in;">
+          <div class="col">
+            <div class="card">
+              <img src="Rectangle 5.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title" style="padding-left: .0in;">Jenifer</h5>
+                <p class="card-text" style="padding-left: .0in;">Front office Admin</p>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <img src="Rectangle 5 Copy.png" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title" style="padding-left: .0in;">Tamas Balagot</h5>
+                <p class="card-text" style="padding-left: .0in;">practice Manager</p>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <img src="Rectangle 5 Copy 2.png" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title" style="padding-left: .0in;">Lori</h5>
+                <p class="card-text" style="padding-left: .0in;">Nurce,Diet, Counselor</p>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <img src="Rectangle 5 Copy 3.png" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title" style="padding-left: .0in;">Alex</h5>
+                <p class="card-text" style="padding-left: .0in;">TrueMDWellness</p>
+              </div>
+            </div>
+          </div>
+          <p>
+            <br>
+          </p>
+        </div>
+      </div>
+    </div>
+      <!--Contect-box-->
+      <div class="container-fluid" style="padding-top: .1in;">
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <div style="padding-top: .2in;">
+                <class="font-weight-bold"><b>SIGN UP NEWSLATTER</b></p>
+              </div>
+              <p class="font-weight-normal" style="font-size: 14px;">Make sure don't miss intrsting<br>happenings by
+                joining our newslatter<br>program</p>
+              <input type="email" id="inputEmail" placeholder=" Enter Email Address" required="" autofocus=""><br>
+              <button type="button" class="btn btn-dark" style="font-size: 12px; margin-top: .1in;">SUBSCRIBE</button>
+            </div>
+            <div class="col">
+              <div style="padding-top: .2in;">
+                <h style="padding-top: .2in;"><b>FINANCING <br></b></h>
+              </div>
+              <div><img src="CareCredit.png" class="img-fluid" alt=""></div>
+              <div style="padding-top: .2in;"> <img src="Prosper.png" class="img-fluid" alt=""></div>
+              <div style="padding-top: .3in;"><img src="United.png" class="img-fluid" alt=""></div>
+            </div>
+            <div class="col">
+              <div style="padding-top: .2in;">
+                <h><b>CONTECT US</b><br></h>
+              </div>
+              <div style="padding-top: .2in;">
+                <h><b>817-399-8783</b><br></h>
+              </div>
+              <div style="padding-top: .1in;">
+                <h>5203 Heritage Avg. Colleyville,<br>TX 76034</h>
+              </div>
+            </div>
+            <div class="col">
+              <div style="padding-top: .2in;">
+                <h><b>OPEN HOURS</h></b></h>
+              </div>
+              <div style="padding-top: .1in;">
+                <h> <b>Monday Through Thursday</b> </h>
+              </div>
+              <p>8:00am-5:00pm </p>
+              <p class="fw-normal">Friday 8:00am-12pm</p>
+              <p class="fw-normal">Saturday and Sunday Closed</p>
+            </div>
+          
+            <div class="container-fluid my-5" style="background-color: black;">
+             
+              
+              <div class="container">
+               <div class="row">
+                  <div class="col-sm-6">
+                    <p class="text-start" style="padding-left: .2in;"><span style="color: white;"> Copyrights(c)2019TrueMD Wellness.All Rights Resrved </span></p>
+                  </div>
+                  <div class="col-sm-6">
+                    <p class="text-start" style="padding-left: .5in;"><span style="color: white;"> Privacy policy | HIPAA Privacy Policy | Terms & conditions.</span></p>
+                    <br>
+                    <br>
+                  </div>
+                </div>
+            </div>
+          </div>
+          <!--end of contect box...-->
+          <!--Footer-->
+          <!--footer started here -->
+         
+
+    
+
+                <!-- <br>
+          <div class="container-box" style="padding-top: .2in; background-color: black;">
+            <div style="padding-left: 6in;"><img src="fbinsta.png.png" alt=""></div>
+            <div>
+              <p><span style="color: white;"> Copyrights(c) 2019 TrueMDWellness,All Rights Resrved</span> <span
+                  style="padding-left: 5in; color: white;">Privacy Policy | HIPAA Policy | Terms & conditions</span></p>
+            </div>
+          </div> -->
+                <!-- Optiona JavaScript -->
+                <!-- jQuery first, then Popper.js, then Bootstrap JS <nav class="navbar navbar-light" style="background-color: #42c9f1;">-->
+                <!-- Navbar content -->
+                </nav>
+                <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+                  integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+                  crossorigin="anonymous"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+                  integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+                  crossorigin="anonymous"></script>
+                <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+                  integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+                  crossorigin="anonymous"></script>
+
+
+</body>
+
+</html>
